@@ -10,3 +10,8 @@ html{
     scroll-behavior: smooth;
     scrollbar-width: none;
 }
+
+#asd{
+    max-width: 300px;
+    max-height:200px ;
+}
